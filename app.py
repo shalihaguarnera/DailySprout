@@ -16,7 +16,7 @@ def run() -> None:
                 st.Page(
                     dir_path / "pages/2_log.py",
                     title = "Sprout Log",
-                    icon = "📝",
+                    icon = "✏️",
                 ),
                 st.Page(
                     dir_path / "pages/3_report.py",
